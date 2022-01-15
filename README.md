@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java (Still garbage at it)
 - 🤔 I currently need help with Java because I just started it a couple days ago.
 - 📫 How to reach me: Discord: Two#6969
-- ⚡ Pronouns: Vir/gin
+- ⚡ Pronouns: He/Him
 - TwoThreeTwo will go to TwoFourTwo next month.
 - Don't ask me why.
 
