@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--🔭 I’m currently working on some HTML, CSS
--🌱 I’m currently learning Java (Still garbage at it)
--🤔 I currently need help with Java because I just started it a couple days ago.
--📫 How to reach me: Discord: Two#6969
--⚡ Pronouns: Vir/gin
+- 🔭 I’m currently working on some HTML, CSS
+- 🌱 I’m currently learning Java (Still garbage at it)
+- 🤔 I currently need help with Java because I just started it a couple days ago.
+- 📫 How to reach me: Discord: Two#6969
+- ⚡ Pronouns: Vir/gin
 
