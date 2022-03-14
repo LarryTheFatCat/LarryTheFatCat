@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Hey! I'm TwoOneTwo or known as TwoThreeTwo
 ![](https://github.com/TwoThreeTwo/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/TwoThreeTwo/github-stats/blob/master/generated/languages.svg)
 
