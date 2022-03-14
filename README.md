@@ -15,8 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Hey! I'm TwoOneTwo or known as TwoThreeTwo
-- My goal for 2022 is to get a proper understanding of Swift and hopefully develop with Swift!
-- My Pronouns are He/Him :D
-- I'm currently working on getting a better understanding of Swift
-- You can reach me on Discord! wyd rn#6969
-- My first major project was a JavaSwing GUI that acts as a Login System, it isn't the best but I put a lot of effort into it!
