@@ -1,5 +1,3 @@
-![Statistics Overview](https://raw.githubusercontent.com/TwoThreeTwo/github-stats/master/generated/overview.svg)  
-![Languages Overview](https://raw.githubusercontent.com/TwoThreeTwo/github-stats/master/generated/languages.svg)
+<h1> Hey! I'm TwoOneTwo </h1>
 
-![](https://komarev.com/ghpvc/?username=TwoThreeTwo)
-
+<p> Currently, I am interested in becoming a Front-End-Developer. </p>
