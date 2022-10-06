@@ -6,4 +6,3 @@
 1. I'm 14 years of age.
 2. I am in love with Web Development
 3. My current goal is to become a Front end Developer.
-4. If you want to contact me send me a message in Discord, it's Two#6969
