@@ -25,7 +25,7 @@ HTML and CSS were the quickest to learn, I don't learn Java anymore due to it be
 Currently JavaScript is what I'm learning!
 </p>
 
-<h1>Major Projects I have finished</hi>
+<h1>Major Projects I have finished</h1>
 <ul>
 <li>
 <a href="https://www.github.com/twothreetwo/website-login-screen">Website Login Screen Design</a>
