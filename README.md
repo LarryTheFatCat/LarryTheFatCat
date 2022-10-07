@@ -26,13 +26,20 @@ Currently JavaScript is what I'm learning!
 </p>
 
 <h1>Major Projects I have finished</hi>
+<ul>
+<li>
 <a href="https://www.github.com/twothreetwo/website-login-screen">Website Login Screen Design</a>
-<br>
+</li>
+<li>
 <a href="https://github.com/TwoThreeTwo/modern-login-design">Fully Completed Login, Sign Up, and forgot password screen that follows a blue and white design to make it look balanced</a>
-<br>
+</li>
+<li>
 <a href="https://github.com/TwoThreeTwo/RandomStringGenerator">Password Generator with the Java Swing Library</a>
-<br>
+</li>
+<li>
 <a href="https://github.com/TwoThreeTwo/BasicLoginSystem">Front-End version of a login system built in Java using the Java Swing Library</a>
+</li>
+</ul>
 
 <h1>Plans for the Future</h1>
 Hopefully in the near future I will fully finish learning JS and get into React or maybe NEXT.JS as they both are major frameworks you should learn to get into Web Development.
