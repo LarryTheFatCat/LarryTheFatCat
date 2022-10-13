@@ -31,9 +31,6 @@ Currently JavaScript is what I'm learning!
 <a href="https://www.github.com/twothreetwo/website-login-screen">Website Login Screen Design</a>
 </li>
 <li>
-<a href="https://github.com/TwoThreeTwo/modern-login-design">Fully Completed Login, Sign Up, and forgot password screen that follows a blue and white design to make it look balanced</a>
-</li>
-<li>
 <a href="https://github.com/TwoThreeTwo/RandomStringGenerator">Password Generator with the Java Swing Library</a>
 </li>
 <li>
