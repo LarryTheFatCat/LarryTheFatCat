@@ -17,6 +17,30 @@
   </li>
 </ul>
 
+<h2>When I graduate I'll fully know:</h2>
+<ul>
+<li>
+Python
+</li>
+<li>
+Java
+</li>
+</ul>
+
+
+<h2>and frameworks when I graduate:</h2>
+<ul>
+<li>
+BootStrap
+</li>
+<li>
+React
+</li>
+<li>
+Tailwind
+</li>
+</ul>
+
 <h1>Why these languages?</h1>
 
 <p>
