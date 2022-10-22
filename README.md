@@ -1,6 +1,3 @@
-<h1>Hey there, I'm Johnathan! </h1>
-
-
 <h2> Known Languages</h2>
 <ul>
   <li>
