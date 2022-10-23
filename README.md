@@ -61,3 +61,5 @@ Currently JavaScript is what I'm learning!
 
 <h1>Plans for the Future</h1>
 Hopefully in the near future I will fully finish learning JS and get into React or maybe NEXT.JS as they both are major frameworks you should learn to get into Web Development.
+
+.
