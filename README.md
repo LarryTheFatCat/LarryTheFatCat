@@ -22,7 +22,17 @@ Python
 <li>
 Java
 </li>
+<li>
+HTML
+</li>
+<li>
+CSS
+</li>
+<li>
+JavaScript
+</li>
 </ul>
+
 
 
 <h2>and frameworks when I graduate:</h2>
@@ -32,6 +42,12 @@ BootStrap
 </li>
 <li>
 React
+</li>
+<li>
+Tailwind
+</li>
+<li>
+Vue
 </li>
 <li>
 Tailwind
