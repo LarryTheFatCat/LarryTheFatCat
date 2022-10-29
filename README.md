@@ -49,9 +49,6 @@ Tailwind
 <li>
 Vue
 </li>
-<li>
-Tailwind
-</li>
 </ul>
 
 <h1>Why these languages?</h1>
