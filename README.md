@@ -19,7 +19,17 @@ Python
 <li>
 Java
 </li>
+<li>
+HTML
+</li>
+<li>
+CSS
+</li>
+<li>
+JavaScript
+</li>
 </ul>
+
 
 
 <h2>and frameworks when I graduate:</h2>
@@ -32,6 +42,9 @@ React
 </li>
 <li>
 Tailwind
+</li>
+<li>
+Vue
 </li>
 </ul>
 
@@ -55,6 +68,7 @@ Currently JavaScript is what I'm learning!
 <a href="https://github.com/TwoThreeTwo/BasicLoginSystem">Front-End version of a login system built in Java using the Java Swing Library</a>
 </li>
 <li>
+<<<<<<< HEAD
 <a href="https://www.github.com/larrythefatcat/modern-design-screen">
 This project is a modern design screen that I made using HTML, CSS, and JavaScript. It is a simple design that I made to practice my skills. I tried to make it as modern as possible and I think I did a good job. I hope you enjoy it!
 </a>
@@ -63,3 +77,18 @@ This project is a modern design screen that I made using HTML, CSS, and JavaScri
 
 <h1>Plans for the Future</h1>
 Hopefully in the near future I will fully finish learning JS and get into React or maybe NEXT.JS as they both are major frameworks you should learn to get into Web Development.
+=======
+  <a href="https://www.github.com/larrythefatcat/modern-login-design/">Full designed login screen with google sign in and actual auth checker</a>
+  </li>
+</ul>
+
+<h1>Plans for the Future</h1>
+Hopefully in the near future I will fully finish learning JS and get into React or maybe NEXT.JS as they both are major frameworks you should learn to get into Web Development.
+
+<h1>Badges</h1>
+<div style="text-align:center;">
+  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white) ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white) ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white) ![ASUS](https://img.shields.io/badge/asus-000080.svg?style=for-the-badge&logo=asus&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  
+  </div>
+>>>>>>> 26d596558af6c2a7fb0305f19aafc882806b1320
