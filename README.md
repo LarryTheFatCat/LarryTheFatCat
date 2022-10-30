@@ -68,7 +68,6 @@ Currently JavaScript is what I'm learning!
 <a href="https://github.com/TwoThreeTwo/BasicLoginSystem">Front-End version of a login system built in Java using the Java Swing Library</a>
 </li>
 <li>
-<<<<<<< HEAD
 <a href="https://www.github.com/larrythefatcat/modern-design-screen">
 This project is a modern design screen that I made using HTML, CSS, and JavaScript. It is a simple design that I made to practice my skills. I tried to make it as modern as possible and I think I did a good job. I hope you enjoy it!
 </a>
