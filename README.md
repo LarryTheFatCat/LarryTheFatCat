@@ -70,9 +70,10 @@ Currently JavaScript is what I'm learning!
 <li>
 <a href="https://github.com/TwoThreeTwo/BasicLoginSystem">Front-End version of a login system built in Java using the Java Swing Library</a>
 </li>
+<li>
+  <a href="https://www.github.com/larrythefatcat/modern-login-design/">Full designed login screen with google sign in and actual auth checker</a>
+  </li>
 </ul>
 
 <h1>Plans for the Future</h1>
 Hopefully in the near future I will fully finish learning JS and get into React or maybe NEXT.JS as they both are major frameworks you should learn to get into Web Development.
-
-.
