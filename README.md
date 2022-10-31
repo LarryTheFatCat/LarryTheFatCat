@@ -92,4 +92,4 @@ Hopefully in the near future I will fully finish learning JS and get into React 
   </div>
 
   # My Badges
-  ![LarryTheFatCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarryTheFatCat&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LarryTheFatCat)](https://github.com/LarryTheFatCat/github-readme-stats)
