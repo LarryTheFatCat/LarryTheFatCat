@@ -93,3 +93,7 @@ Hopefully in the near future I will fully finish learning JS and get into React 
 
   # My Badges
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LarryTheFatCat)](https://github.com/LarryTheFatCat/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LarryTheFatCat&repo=modern-login-screen)](https://github.com/anuraghazra/github-readme-stats)
+
+
