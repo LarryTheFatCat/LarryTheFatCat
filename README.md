@@ -13,9 +13,6 @@
   JavaScript
   </li>
   <li>
-  SasS
-  </li>
-  <li>
   Java (Barely, lol)
   </li>
 </ul>
