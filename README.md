@@ -44,9 +44,4 @@ This project is a modern design screen that I made using HTML, CSS, and JavaScri
   
   </div>
 
-  # My Badges
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LarryTheFatCat)](https://github.com/LarryTheFatCat/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LarryTheFatCat&repo=modern-login-design)](https://www.github.com/larrythefatcat/modern-login-design)
-
 <a href="https://wakatime.com/@caad35a0-adf5-4a13-86f7-d895c5cde227"><img src="https://wakatime.com/badge/user/caad35a0-adf5-4a13-86f7-d895c5cde227.svg" alt="Total time coded since Feb 28 2022" /></a>
