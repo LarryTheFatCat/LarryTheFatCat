@@ -1,4 +1,4 @@
-<h2> Known Languages</h2>
+<h2> Known Languages and frameworks</h2>
 <ul>
   <li>
   HTML
@@ -9,53 +9,13 @@
   <li>
   JavaScript
   </li>
+  <li>
+  SasS
+  </li>
+  <li>
+  Java (Barely, lol)
+  </li>
 </ul>
-
-<h2>When I graduate I'll fully know:</h2>
-<ul>
-<li>
-Python
-</li>
-<li>
-Java
-</li>
-<li>
-HTML
-</li>
-<li>
-CSS
-</li>
-<li>
-JavaScript
-</li>
-</ul>
-
-
-
-<h2>and frameworks when I graduate:</h2>
-<ul>
-<li>
-BootStrap
-</li>
-<li>
-React
-</li>
-<li>
-Tailwind
-</li>
-<li>
-Vue
-</li>
-</ul>
-
-<h1>Why these languages?</h1>
-
-<p>
-I chose these languages to learn because I was in my peak of learning languages as well as because I had a dream of becoming a Front-End-Web Developer.
-HTML and CSS were the quickest to learn, I don't learn Java anymore due to it being complicated.
-Currently JavaScript is what I'm learning!
-</p>
-
 <h1>Major Projects I have finished</h1>
 <ul>
 <li>
@@ -76,9 +36,6 @@ This project is a modern design screen that I made using HTML, CSS, and JavaScri
 
 <h1>Plans for the Future</h1>
 Hopefully in the near future I will fully finish learning JS and get into React or maybe NEXT.JS as they both are major frameworks you should learn to get into Web Development.
-=======
-  <a href="https://www.github.com/larrythefatcat/modern-login-design/">Full designed login screen with google sign in and actual auth checker</a>
-  </li>
 </ul>
 
 <h1>Plans for the Future</h1>
