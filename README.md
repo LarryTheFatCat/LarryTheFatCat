@@ -7,6 +7,9 @@
   CSS
   </li>
   <li>
+    Sass
+  </li>
+  <li>
   JavaScript
   </li>
   <li>
@@ -16,6 +19,61 @@
   Java (Barely, lol)
   </li>
 </ul>
+<<<<<<< HEAD
+=======
+
+<h2>When I graduate I'll fully know:</h2>
+<ul>
+<li>
+Python
+</li>
+<li>
+Java
+</li>
+<li>
+HTML
+</li>
+<li>
+CSS
+</li>
+  <li>
+    Sass
+  </li>
+  <li>
+    SCSS
+  </li>
+<li>
+JavaScript
+</li>
+</ul>
+
+
+
+<h2>and frameworks when I graduate:</h2>
+<ul>
+<li>
+BootStrap
+</li>
+<li>
+React
+</li>
+<li>
+Tailwind
+</li>
+<li>
+Vue
+</li>
+</ul>
+
+<h1>Why these languages?</h1>
+
+<p>
+I chose these languages to learn because I was in my peak of learning languages as well as because I had a dream of becoming a Front-End-Web Developer.
+HTML and CSS were the quickest to learn, I don't learn Java anymore due to it being complicated.
+Currently JavaScript is what I'm learning!
+</p>
+
+>>>>>>> 45203cebe01be311b484ad9d5f28d8a72bb1ebd2
 <h1>Major Projects I have finished</h1>
 <ul>
 <li>
