@@ -19,8 +19,6 @@
   Java (Barely, lol)
   </li>
 </ul>
-<<<<<<< HEAD
-=======
 
 <h2>When I graduate I'll fully know:</h2>
 <ul>
@@ -73,7 +71,6 @@ HTML and CSS were the quickest to learn, I don't learn Java anymore due to it be
 Currently JavaScript is what I'm learning!
 </p>
 
->>>>>>> 45203cebe01be311b484ad9d5f28d8a72bb1ebd2
 <h1>Major Projects I have finished</h1>
 <ul>
 <li>
