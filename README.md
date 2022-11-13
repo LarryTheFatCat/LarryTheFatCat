@@ -7,6 +7,9 @@
   CSS
   </li>
   <li>
+    Sass/SCSS
+  </li>
+  <li>
   JavaScript
   </li>
 </ul>
