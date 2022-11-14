@@ -37,3 +37,6 @@
   </div>
 
 <a href="https://wakatime.com/@caad35a0-adf5-4a13-86f7-d895c5cde227"><img src="https://wakatime.com/badge/user/caad35a0-adf5-4a13-86f7-d895c5cde227.svg" alt="Total time coded since Feb 28 2022" /></a>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=LarryTheFatCat&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
