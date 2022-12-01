@@ -10,6 +10,9 @@
     Sass
   </li>
   <li>
+    SCSS
+  </li>
+  <li>
   JavaScript
   </li>
   <li>
