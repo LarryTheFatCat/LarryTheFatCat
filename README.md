@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 15-year-old Self-Taught Web Developer, Great with HTML, CSS, and slowly understanding JavaScript hoping to get further into it as well as achieve my dreams as a Frontend Web-Developer
+I am a 15-year-old Self-Taught Web Developer, Great with HTML, CSS, and slowly understanding JavaScript hoping to get further into it as well as achieve my dreams as a Frontend Web-Developer! As of beginning 2023, I will be switching over to frameworks as I have done enough HTML, CSS, and JavaScript to get a good understanding and will be doing React as I have started to do it!
 
 
 # 💻 Tech Stack:
