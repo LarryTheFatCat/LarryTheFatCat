@@ -16,4 +16,6 @@ I am a 15-year-old Self-Taught Web Developer, Great with HTML, CSS, and slowly u
 ---
 [![](https://visitcount.itsvg.in/api?id=LarryTheFatCat&icon=2&color=0)](https://visitcount.itsvg.in)
 
+<a href="https://wakatime.com/@caad35a0-adf5-4a13-86f7-d895c5cde227"><img src="https://wakatime.com/badge/user/caad35a0-adf5-4a13-86f7-d895c5cde227.svg" alt="Total time coded since Feb 28 2022" /></a>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
