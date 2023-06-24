@@ -5,5 +5,5 @@
 <br />
 
 <p>
-  Self-Taught (Absolute garbage) Web-Developer who dabbles in react, I don't plan to come back to coding - more into mathematics, astronomy, and physics - The more I get into physics the further I come to a conclusion there must be a higher being.
+  Self-Taught Web Developer, though mostly into mathematics, Astronomy (not astrology, completely garbage and different), Physics, astrophotography (no proper setup atm). No contacts available, I am not active on Discord or issues... 
 </p>
