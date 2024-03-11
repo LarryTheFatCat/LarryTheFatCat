@@ -1,4 +1,4 @@
-# Tarkan Zarrouk's Portfolio
+# Hey There! :wave:
 
 Welcome to my portfolio! This repository showcases my skills, projects, and experience in web development and astrophysics/astronomy.
 
