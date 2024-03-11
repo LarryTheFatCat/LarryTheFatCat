@@ -12,7 +12,7 @@ Welcome to my portfolio! This repository showcases my skills, projects, and expe
 
 ## About Me
 
-Hello! I'm Tarkan Zarrouk, a 16-year-old enthusiast with a passion for web development and astrophysics/astronomy. I believe in the power of technology to shape the future and the wonders of the universe to inspire us. As a high school student, I'm driven by curiosity and a desire to explore the intersection of science and technology. One of my favorite quotes that keeps me motivated is [insert your inspirational quote here].
+Hello! I'm Tarkan Zarrouk, a 16-year-old enthusiast with a passion for web development and astrophysics/astronomy. I believe in the power of technology to shape the future and the wonders of the universe to inspire us. As a high school student, I'm driven by curiosity and a desire to explore the intersection of science and technology. One of my favorite quotes that keeps me motivated "Believe you can and you're halfway there." — Theodore Roosevelt
 
 ## Skills
 
@@ -20,7 +20,6 @@ I specialize in the following:
 
 - **Programming Languages:** PHP, HTML, CSS, JavaScript
 - **Frameworks:** React
-- **Additional Skills:** [Mention any other basic skills you possess]
 
 ## Projects
 
@@ -28,23 +27,20 @@ I specialize in the following:
 - **Description:** Implemented a sleek login screen with authentication functionality.
 - **Role:** Sole developer
 - **Technologies:** HTML, CSS, JavaScript
-- **Achievements:** [Any notable achievements or outcomes]
 
 ### Project 2: [Password Generator](#)
 - **Description:** Developed a password generator for creating secure passwords.
 - **Role:** Sole developer
-- **Technologies:** [List of technologies used]
-- **Achievements:** [Any notable achievements or outcomes]
+- **Technologies:** JavaSwing, Java
 
 ### Project 3: [Todo Application](#)
 - **Description:** Designed and built a todo application for task management.
 - **Role:** Sole developer
-- **Technologies:** [List of technologies used]
-- **Achievements:** [Any notable achievements or outcomes]
+- **Technologies:** ReactJS
 
 ## Education
 
-I am currently a diligent 11th-year student at Father Michael Goetz Secondary School, with an expected graduation year of 2025.
+I am currently a diligent 11th-year Highschool Student expected to graduate in 2025!
 
 ## Contact
 
