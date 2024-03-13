@@ -48,4 +48,5 @@ Feel free to connect with me!
 
 - **Email:** [tarkan.zarrouk@gmail.com](mailto:tarkan.zarrouk@gmail.com)
 - **LinkedIn:** [Tarkan Zarrouk on LinkedIn](https://www.linkedin.com/in/tarkan-zarrouk-3365b6243/)
+<br>
 Thank you for visiting my portfolio! If you have any questions or are interested in collaboration, don't hesitate to reach out.
