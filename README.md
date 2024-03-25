@@ -21,23 +21,6 @@ I specialize in the following:
 - **Programming Languages:** PHP, HTML, CSS, JavaScript
 - **Frameworks:** React
 
-## Projects
-
-### Project 1: [Modern Login Screen using vanilla HTML, CSS, JS with authentication](#)
-- **Description:** Implemented a sleek login screen with authentication functionality.
-- **Role:** Sole developer
-- **Technologies:** HTML, CSS, JavaScript
-
-### Project 2: [Password Generator](#)
-- **Description:** Developed a password generator for creating secure passwords.
-- **Role:** Sole developer
-- **Technologies:** JavaSwing, Java
-
-### Project 3: [Todo Application](#)
-- **Description:** Designed and built a todo application for task management.
-- **Role:** Sole developer
-- **Technologies:** ReactJS
-
 ## Education
 
 I am currently a diligent 11th-year Highschool Student expected to graduate in 2025!
