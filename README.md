@@ -12,18 +12,14 @@ Welcome to my portfolio! This repository showcases my skills, projects, and expe
 
 ## About Me
 
-Hello! I'm Tarkan Zarrouk, a 16-year-old enthusiast with a passion for web development and astrophysics/astronomy. I believe in the power of technology to shape the future and the wonders of the universe to inspire us. As a high school student, I'm driven by curiosity and a desire to explore the intersection of science and technology. One of my favorite quotes that keeps me motivated "Believe you can and you're halfway there." — Theodore Roosevelt
+Hello! I'm Tarkan Zarrouk, a 16-year-old enthusiast with a passion for web development and astrophysics/astronomy. I believe in the power of technology to shape the future and the wonders of the universe to inspire us. As a high school student, I'm driven by curiosity and a desire to explore the intersection of science and technology.
 
 ## Skills
 
 I specialize in the following:
 
 - **Programming Languages:** PHP, HTML, CSS, JavaScript
-- **Frameworks:** React
-
-## Education
-
-I am currently a diligent 11th-year Highschool Student expected to graduate in 2025!
+- **Frameworks:** React, Bootstrap
 
 ## Contact
 
