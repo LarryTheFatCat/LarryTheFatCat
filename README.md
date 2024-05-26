@@ -1,6 +1,6 @@
 # Hey There! :wave:
 
-Welcome to my portfolio! This repository showcases my skills, projects, and experience in web development and astrophysics/astronomy.
+Welcome to my portfolio! This repository showcases my skills, projects, and experience in web development.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ Welcome to my portfolio! This repository showcases my skills, projects, and expe
 
 ## About Me
 
-Hello! I'm Tarkan Zarrouk, a 16-year-old enthusiast with a passion for web development and astrophysics/astronomy. I believe in the power of technology to shape the future and the wonders of the universe to inspire us. As a high school student, I'm driven by curiosity and a desire to explore the intersection of science and technology.
+Hello! I'm Tarkan Zarrouk, a 16-year-old enthusiast with a passion for web development. I believe in the power of technology to shape the future and the wonders of the universe to inspire us. As a high school student, I'm driven by curiosity and a desire to explore the intersection of science and technology.
 
 ## Skills
 
