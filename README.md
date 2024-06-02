@@ -24,3 +24,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=larrythefatcat&show_icons=true&locale=en&layout=compact" alt="larrythefatcat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=larrythefatcat&show_icons=true&locale=en" alt="larrythefatcat" /></p>
+
+<img width="574" alt="image" src="https://github.com/LarryTheFatCat/LarryTheFatCat/assets/83801755/f1a3f6df-f2b3-434a-af49-63bb7f89687c">
+
