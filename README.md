@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on **Leet Code Problems & Resume Worthy Projects**
 
-- 🌱 I’m currently learning **Python, Basic Sorting Algorithms, JavaScript, HTML, CSS, Bootstrap, Tailwind & PHP :D**
-
-- 💬 Ask me about **Python**
+- 🌱 I’m currently learning **ReactJS, NextJS, TailwindCSS & Supabase :D**
 
 - 📫 How to reach me **tarkan.zarrouk@gmail.com**
 
